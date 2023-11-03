@@ -1,4 +1,4 @@
-module naresh
+module github.com/Go-By-Example-Projects/bookstore-api-without-database
 
 go 1.21.0
 
